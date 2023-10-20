@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>user_input</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-20 05:59:24</sys_created_on>
+        <sys_id>120238382f423110622559a72799b6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_input</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_120238382f423110622559a72799b6a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-20 05:59:24</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value=" NeedIt show or hide Other field">2001bc382f423110622559a72799b607</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
